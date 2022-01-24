@@ -1,0 +1,28 @@
+name: Scrape latest data
+ 
+on:
+  push:
+  workflow_dispatch:
+  schedule:
+    - cron:  '6,26,46 * * * *'
+ 
+jobs:
+  scheduled:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Check out this repo
+      uses: actions/checkout@v2
+    - name: Fetch latest data
+      env:
+        LA_CODE: ${{ secrets.LA_CODE }}
+      run: |-
+        # DON'T FORGET TO ADD THE CORRECT LA_CODE AS A GITHUB SECRET
+        curl "https://api.erg.ic.ac.uk/AirQuality/Daily/MonitoringIndex/Latest/LocalAuthorityId=$LA_CODE/Json" | jq .DailyAirQualityIndex.LocalAuthority.Site > air.json
+    - name: Commit and push if it changed
+      run: |-
+        git config user.name "Automated"
+        git config user.email "actions@users.noreply.github.com"
+        git add -A
+        timestamp=$(date -u)
+        git commit -m "Latest data: ${timestamp}" || exit 0
+        git push
