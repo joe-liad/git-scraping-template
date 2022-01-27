@@ -12,8 +12,8 @@
       {
         "@SpeciesCode": "NO2",
         "@SpeciesDescription": "Nitrogen Dioxide",
-        "@AirQualityIndex": "4",
-        "@AirQualityBand": "Moderate",
+        "@AirQualityIndex": "1",
+        "@AirQualityBand": "Low",
         "@IndexSource": "Measurement"
       },
       {
