@@ -1,6 +1,6 @@
 [
   {
-    "@BulletinDate": "2022-05-07 00:00:00",
+    "@BulletinDate": "2022-05-08 00:00:00",
     "@SiteCode": "HP1",
     "@SiteName": "Lewisham - Honor Oak Park",
     "@SiteType": "Urban Background",
@@ -19,7 +19,7 @@
       {
         "@SpeciesCode": "O3",
         "@SpeciesDescription": "Ozone",
-        "@AirQualityIndex": "2",
+        "@AirQualityIndex": "3",
         "@AirQualityBand": "Low",
         "@IndexSource": "Measurement"
       },
@@ -40,7 +40,7 @@
     ]
   },
   {
-    "@BulletinDate": "2022-05-07 00:00:00",
+    "@BulletinDate": "2022-05-08 00:00:00",
     "@SiteCode": "LW2",
     "@SiteName": "Lewisham - New Cross",
     "@SiteType": "Roadside",
@@ -57,6 +57,13 @@
         "@IndexSource": "Measurement"
       },
       {
+        "@SpeciesCode": "PM10",
+        "@SpeciesDescription": "PM10 Particulate",
+        "@AirQualityIndex": "2",
+        "@AirQualityBand": "Low",
+        "@IndexSource": "Measurement"
+      },
+      {
         "@SpeciesCode": "PM25",
         "@SpeciesDescription": "PM2.5 Particulate",
         "@AirQualityIndex": "1",
@@ -66,7 +73,7 @@
     ]
   },
   {
-    "@BulletinDate": "2022-05-07 00:00:00",
+    "@BulletinDate": "2022-05-08 00:00:00",
     "@SiteCode": "LW4",
     "@SiteName": "Lewisham - Loampit Vale",
     "@SiteType": "Roadside",
@@ -85,14 +92,14 @@
       {
         "@SpeciesCode": "PM10",
         "@SpeciesDescription": "PM10 Particulate",
-        "@AirQualityIndex": "1",
+        "@AirQualityIndex": "2",
         "@AirQualityBand": "Low",
         "@IndexSource": "Measurement"
       }
     ]
   },
   {
-    "@BulletinDate": "2022-05-07 00:00:00",
+    "@BulletinDate": "2022-05-08 00:00:00",
     "@SiteCode": "LW5",
     "@SiteName": "Lewisham - Deptford",
     "@SiteType": "Urban Background",
@@ -116,22 +123,5 @@
         "@IndexSource": "Measurement"
       }
     ]
-  },
-  {
-    "@BulletinDate": "2022-05-07 00:00:00",
-    "@SiteCode": "LW6",
-    "@SiteName": "Lewisham -Laurence House Catford",
-    "@SiteType": "Roadside",
-    "@Latitude": "51.4447808",
-    "@Longitude": "-0.0221832",
-    "@LatitudeWGS84": "6700350.63522365",
-    "@LongitudeWGS84": "-2469.42252816535",
-    "Species": {
-      "@SpeciesCode": "NO2",
-      "@SpeciesDescription": "Nitrogen Dioxide",
-      "@AirQualityIndex": "1",
-      "@AirQualityBand": "Low",
-      "@IndexSource": "Measurement"
-    }
   }
 ]
