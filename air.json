@@ -107,5 +107,22 @@
         "@IndexSource": "Measurement"
       }
     ]
+  },
+  {
+    "@BulletinDate": "2022-08-24 00:00:00",
+    "@SiteCode": "LW6",
+    "@SiteName": "Lewisham -Laurence House Catford",
+    "@SiteType": "Roadside",
+    "@Latitude": "51.4447808",
+    "@Longitude": "-0.0221832",
+    "@LatitudeWGS84": "6700350.63522365",
+    "@LongitudeWGS84": "-2469.42252816535",
+    "Species": {
+      "@SpeciesCode": "NO2",
+      "@SpeciesDescription": "Nitrogen Dioxide",
+      "@AirQualityIndex": "1",
+      "@AirQualityBand": "Low",
+      "@IndexSource": "Measurement"
+    }
   }
 ]
