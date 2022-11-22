@@ -1,6 +1,6 @@
 [
   {
-    "@BulletinDate": "2022-11-20 00:00:00",
+    "@BulletinDate": "2022-11-21 00:00:00",
     "@SiteCode": "HP1",
     "@SiteName": "Lewisham - Honor Oak Park",
     "@SiteType": "Urban Background",
@@ -40,7 +40,7 @@
     ]
   },
   {
-    "@BulletinDate": "2022-11-20 00:00:00",
+    "@BulletinDate": "2022-11-21 00:00:00",
     "@SiteCode": "LW2",
     "@SiteName": "Lewisham - New Cross",
     "@SiteType": "Roadside",
@@ -66,14 +66,14 @@
       {
         "@SpeciesCode": "PM25",
         "@SpeciesDescription": "PM2.5 Particulate",
-        "@AirQualityIndex": "2",
+        "@AirQualityIndex": "1",
         "@AirQualityBand": "Low",
         "@IndexSource": "Measurement"
       }
     ]
   },
   {
-    "@BulletinDate": "2022-11-20 00:00:00",
+    "@BulletinDate": "2022-11-21 00:00:00",
     "@SiteCode": "LW4",
     "@SiteName": "Lewisham - Loampit Vale",
     "@SiteType": "Roadside",
@@ -85,7 +85,7 @@
       {
         "@SpeciesCode": "NO2",
         "@SpeciesDescription": "Nitrogen Dioxide",
-        "@AirQualityIndex": "2",
+        "@AirQualityIndex": "1",
         "@AirQualityBand": "Low",
         "@IndexSource": "Measurement"
       },
@@ -99,7 +99,7 @@
     ]
   },
   {
-    "@BulletinDate": "2022-11-20 00:00:00",
+    "@BulletinDate": "2022-11-21 00:00:00",
     "@SiteCode": "LW5",
     "@SiteName": "Lewisham - Deptford",
     "@SiteType": "Urban Background",
