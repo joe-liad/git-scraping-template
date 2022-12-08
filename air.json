@@ -12,7 +12,7 @@
       {
         "@SpeciesCode": "NO2",
         "@SpeciesDescription": "Nitrogen Dioxide",
-        "@AirQualityIndex": "3",
+        "@AirQualityIndex": "1",
         "@AirQualityBand": "Low",
         "@IndexSource": "Measurement"
       },
