@@ -66,8 +66,8 @@
       {
         "@SpeciesCode": "PM25",
         "@SpeciesDescription": "PM2.5 Particulate",
-        "@AirQualityIndex": "7",
-        "@AirQualityBand": "High",
+        "@AirQualityIndex": "6",
+        "@AirQualityBand": "Moderate",
         "@IndexSource": "Measurement"
       }
     ]
