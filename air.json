@@ -1,6 +1,6 @@
 [
   {
-    "@BulletinDate": "2023-06-09 00:00:00",
+    "@BulletinDate": "2023-06-10 00:00:00",
     "@SiteCode": "HP1",
     "@SiteName": "Lewisham - Honor Oak Park",
     "@SiteType": "Urban Background",
@@ -19,8 +19,8 @@
       {
         "@SpeciesCode": "O3",
         "@SpeciesDescription": "Ozone",
-        "@AirQualityIndex": "4",
-        "@AirQualityBand": "Moderate",
+        "@AirQualityIndex": "7",
+        "@AirQualityBand": "High",
         "@IndexSource": "Measurement"
       },
       {
@@ -40,7 +40,7 @@
     ]
   },
   {
-    "@BulletinDate": "2023-06-09 00:00:00",
+    "@BulletinDate": "2023-06-10 00:00:00",
     "@SiteCode": "LW2",
     "@SiteName": "Lewisham - New Cross",
     "@SiteType": "Roadside",
@@ -48,16 +48,25 @@
     "@Longitude": "-0.039641",
     "@LatitudeWGS84": "6705741.5303",
     "@LongitudeWGS84": "-4412.81593454",
-    "Species": {
-      "@SpeciesCode": "NO2",
-      "@SpeciesDescription": "Nitrogen Dioxide",
-      "@AirQualityIndex": "1",
-      "@AirQualityBand": "Low",
-      "@IndexSource": "Measurement"
-    }
+    "Species": [
+      {
+        "@SpeciesCode": "NO2",
+        "@SpeciesDescription": "Nitrogen Dioxide",
+        "@AirQualityIndex": "1",
+        "@AirQualityBand": "Low",
+        "@IndexSource": "Measurement"
+      },
+      {
+        "@SpeciesCode": "PM10",
+        "@SpeciesDescription": "PM10 Particulate",
+        "@AirQualityIndex": "3",
+        "@AirQualityBand": "Low",
+        "@IndexSource": "Measurement"
+      }
+    ]
   },
   {
-    "@BulletinDate": "2023-06-09 00:00:00",
+    "@BulletinDate": "2023-06-10 00:00:00",
     "@SiteCode": "LW4",
     "@SiteName": "Lewisham - Loampit Vale",
     "@SiteType": "Roadside",
@@ -76,14 +85,14 @@
       {
         "@SpeciesCode": "PM10",
         "@SpeciesDescription": "PM10 Particulate",
-        "@AirQualityIndex": "2",
+        "@AirQualityIndex": "3",
         "@AirQualityBand": "Low",
         "@IndexSource": "Measurement"
       }
     ]
   },
   {
-    "@BulletinDate": "2023-06-09 00:00:00",
+    "@BulletinDate": "2023-06-10 00:00:00",
     "@SiteCode": "LW5",
     "@SiteName": "Lewisham - Deptford",
     "@SiteType": "Urban Background",
