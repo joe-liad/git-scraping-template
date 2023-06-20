@@ -1,6 +1,6 @@
 [
   {
-    "@BulletinDate": "2023-06-18 00:00:00",
+    "@BulletinDate": "2023-06-19 00:00:00",
     "@SiteCode": "HP1",
     "@SiteName": "Lewisham - Honor Oak Park",
     "@SiteType": "Urban Background",
@@ -26,21 +26,21 @@
       {
         "@SpeciesCode": "PM10",
         "@SpeciesDescription": "PM10 Particulate",
-        "@AirQualityIndex": "2",
+        "@AirQualityIndex": "1",
         "@AirQualityBand": "Low",
         "@IndexSource": "Measurement"
       },
       {
         "@SpeciesCode": "PM25",
         "@SpeciesDescription": "PM2.5 Particulate",
-        "@AirQualityIndex": "2",
+        "@AirQualityIndex": "1",
         "@AirQualityBand": "Low",
         "@IndexSource": "Measurement"
       }
     ]
   },
   {
-    "@BulletinDate": "2023-06-18 00:00:00",
+    "@BulletinDate": "2023-06-19 00:00:00",
     "@SiteCode": "LW2",
     "@SiteName": "Lewisham - New Cross",
     "@SiteType": "Roadside",
@@ -48,16 +48,25 @@
     "@Longitude": "-0.039641",
     "@LatitudeWGS84": "6705741.5303",
     "@LongitudeWGS84": "-4412.81593454",
-    "Species": {
-      "@SpeciesCode": "NO2",
-      "@SpeciesDescription": "Nitrogen Dioxide",
-      "@AirQualityIndex": "1",
-      "@AirQualityBand": "Low",
-      "@IndexSource": "Measurement"
-    }
+    "Species": [
+      {
+        "@SpeciesCode": "NO2",
+        "@SpeciesDescription": "Nitrogen Dioxide",
+        "@AirQualityIndex": "1",
+        "@AirQualityBand": "Low",
+        "@IndexSource": "Measurement"
+      },
+      {
+        "@SpeciesCode": "PM25",
+        "@SpeciesDescription": "PM2.5 Particulate",
+        "@AirQualityIndex": "1",
+        "@AirQualityBand": "Low",
+        "@IndexSource": "Measurement"
+      }
+    ]
   },
   {
-    "@BulletinDate": "2023-06-18 00:00:00",
+    "@BulletinDate": "2023-06-19 00:00:00",
     "@SiteCode": "LW4",
     "@SiteName": "Lewisham - Loampit Vale",
     "@SiteType": "Roadside",
@@ -83,7 +92,7 @@
     ]
   },
   {
-    "@BulletinDate": "2023-06-18 00:00:00",
+    "@BulletinDate": "2023-06-19 00:00:00",
     "@SiteCode": "LW5",
     "@SiteName": "Lewisham - Deptford",
     "@SiteType": "Urban Background",
@@ -102,14 +111,14 @@
       {
         "@SpeciesCode": "PM25",
         "@SpeciesDescription": "PM2.5 Particulate",
-        "@AirQualityIndex": "2",
+        "@AirQualityIndex": "1",
         "@AirQualityBand": "Low",
         "@IndexSource": "Measurement"
       }
     ]
   },
   {
-    "@BulletinDate": "2023-06-18 00:00:00",
+    "@BulletinDate": "2023-06-19 00:00:00",
     "@SiteCode": "LW6",
     "@SiteName": "Lewisham -Laurence House Catford",
     "@SiteType": "Roadside",
