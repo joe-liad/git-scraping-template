@@ -107,12 +107,21 @@
     "@Longitude": "-0.0252606031340197",
     "@LatitudeWGS84": "6703907.50224776",
     "@LongitudeWGS84": "-1788.70865141176",
-    "Species": {
-      "@SpeciesCode": "NO2",
-      "@SpeciesDescription": "Nitrogen Dioxide",
-      "@AirQualityIndex": "1",
-      "@AirQualityBand": "Low",
-      "@IndexSource": "Measurement"
-    }
+    "Species": [
+      {
+        "@SpeciesCode": "NO2",
+        "@SpeciesDescription": "Nitrogen Dioxide",
+        "@AirQualityIndex": "1",
+        "@AirQualityBand": "Low",
+        "@IndexSource": "Measurement"
+      },
+      {
+        "@SpeciesCode": "PM25",
+        "@SpeciesDescription": "PM2.5 Particulate",
+        "@AirQualityIndex": "1",
+        "@AirQualityBand": "Low",
+        "@IndexSource": "Measurement"
+      }
+    ]
   }
 ]
