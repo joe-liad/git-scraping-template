@@ -1,6 +1,6 @@
 [
   {
-    "@BulletinDate": "2023-08-01 00:00:00",
+    "@BulletinDate": "2023-08-02 00:00:00",
     "@SiteCode": "HP1",
     "@SiteName": "Lewisham - Honor Oak Park",
     "@SiteType": "Urban Background",
@@ -40,7 +40,7 @@
     ]
   },
   {
-    "@BulletinDate": "2023-08-01 00:00:00",
+    "@BulletinDate": "2023-08-02 00:00:00",
     "@SiteCode": "LW2",
     "@SiteName": "Lewisham - New Cross",
     "@SiteType": "Roadside",
@@ -62,18 +62,11 @@
         "@AirQualityIndex": "2",
         "@AirQualityBand": "Low",
         "@IndexSource": "Measurement"
-      },
-      {
-        "@SpeciesCode": "PM25",
-        "@SpeciesDescription": "PM2.5 Particulate",
-        "@AirQualityIndex": "1",
-        "@AirQualityBand": "Low",
-        "@IndexSource": "Measurement"
       }
     ]
   },
   {
-    "@BulletinDate": "2023-08-01 00:00:00",
+    "@BulletinDate": "2023-08-02 00:00:00",
     "@SiteCode": "LW4",
     "@SiteName": "Lewisham - Loampit Vale",
     "@SiteType": "Roadside",
@@ -90,7 +83,7 @@
     }
   },
   {
-    "@BulletinDate": "2023-08-01 00:00:00",
+    "@BulletinDate": "2023-08-02 00:00:00",
     "@SiteCode": "LW5",
     "@SiteName": "Lewisham - Deptford",
     "@SiteType": "Urban Background",
@@ -116,7 +109,7 @@
     ]
   },
   {
-    "@BulletinDate": "2023-08-01 00:00:00",
+    "@BulletinDate": "2023-08-02 00:00:00",
     "@SiteCode": "LW6",
     "@SiteName": "Lewisham -Laurence House Catford",
     "@SiteType": "Roadside",
