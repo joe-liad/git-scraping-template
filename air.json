@@ -1,6 +1,6 @@
 [
   {
-    "@BulletinDate": "2024-01-07 00:00:00",
+    "@BulletinDate": "2024-01-08 00:00:00",
     "@SiteCode": "HP1",
     "@SiteName": "Lewisham - Honor Oak Park",
     "@SiteType": "Urban Background",
@@ -19,7 +19,7 @@
       {
         "@SpeciesCode": "O3",
         "@SpeciesDescription": "Ozone",
-        "@AirQualityIndex": "3",
+        "@AirQualityIndex": "2",
         "@AirQualityBand": "Low",
         "@IndexSource": "Measurement"
       },
@@ -40,7 +40,7 @@
     ]
   },
   {
-    "@BulletinDate": "2024-01-07 00:00:00",
+    "@BulletinDate": "2024-01-08 00:00:00",
     "@SiteCode": "LW2",
     "@SiteName": "Lewisham - New Cross",
     "@SiteType": "Roadside",
@@ -59,21 +59,14 @@
       {
         "@SpeciesCode": "PM10",
         "@SpeciesDescription": "PM10 Particulate",
-        "@AirQualityIndex": "1",
-        "@AirQualityBand": "Low",
-        "@IndexSource": "Measurement"
-      },
-      {
-        "@SpeciesCode": "PM25",
-        "@SpeciesDescription": "PM2.5 Particulate",
-        "@AirQualityIndex": "1",
+        "@AirQualityIndex": "2",
         "@AirQualityBand": "Low",
         "@IndexSource": "Measurement"
       }
     ]
   },
   {
-    "@BulletinDate": "2024-01-07 00:00:00",
+    "@BulletinDate": "2024-01-08 00:00:00",
     "@SiteCode": "LW4",
     "@SiteName": "Lewisham - Loampit Vale",
     "@SiteType": "Roadside",
