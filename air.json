@@ -62,6 +62,13 @@
         "@AirQualityIndex": "2",
         "@AirQualityBand": "Low",
         "@IndexSource": "Measurement"
+      },
+      {
+        "@SpeciesCode": "PM25",
+        "@SpeciesDescription": "PM2.5 Particulate",
+        "@AirQualityIndex": "2",
+        "@AirQualityBand": "Low",
+        "@IndexSource": "Measurement"
       }
     ]
   },
@@ -74,13 +81,22 @@
     "@Longitude": "-0.0160682432041527",
     "@LatitudeWGS84": "6703907.50224776",
     "@LongitudeWGS84": "-1788.70865141176",
-    "Species": {
-      "@SpeciesCode": "NO2",
-      "@SpeciesDescription": "Nitrogen Dioxide",
-      "@AirQualityIndex": "1",
-      "@AirQualityBand": "Low",
-      "@IndexSource": "Measurement"
-    }
+    "Species": [
+      {
+        "@SpeciesCode": "NO2",
+        "@SpeciesDescription": "Nitrogen Dioxide",
+        "@AirQualityIndex": "1",
+        "@AirQualityBand": "Low",
+        "@IndexSource": "Measurement"
+      },
+      {
+        "@SpeciesCode": "PM10",
+        "@SpeciesDescription": "PM10 Particulate",
+        "@AirQualityIndex": "2",
+        "@AirQualityBand": "Low",
+        "@IndexSource": "Measurement"
+      }
+    ]
   },
   {
     "@BulletinDate": "2024-05-06 00:00:00",
