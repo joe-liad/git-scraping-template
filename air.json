@@ -19,7 +19,7 @@
       {
         "@SpeciesCode": "O3",
         "@SpeciesDescription": "Ozone",
-        "@AirQualityIndex": "2",
+        "@AirQualityIndex": "3",
         "@AirQualityBand": "Low",
         "@IndexSource": "Measurement"
       },
