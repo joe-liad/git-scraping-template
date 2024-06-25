@@ -1,6 +1,6 @@
 [
   {
-    "@BulletinDate": "2024-06-23 00:00:00",
+    "@BulletinDate": "2024-06-24 00:00:00",
     "@SiteCode": "HP1",
     "@SiteName": "Lewisham - Honor Oak Park",
     "@SiteType": "Urban Background",
@@ -13,6 +13,13 @@
         "@SpeciesCode": "NO2",
         "@SpeciesDescription": "Nitrogen Dioxide",
         "@AirQualityIndex": "1",
+        "@AirQualityBand": "Low",
+        "@IndexSource": "Measurement"
+      },
+      {
+        "@SpeciesCode": "O3",
+        "@SpeciesDescription": "Ozone",
+        "@AirQualityIndex": "3",
         "@AirQualityBand": "Low",
         "@IndexSource": "Measurement"
       },
@@ -33,7 +40,7 @@
     ]
   },
   {
-    "@BulletinDate": "2024-06-23 00:00:00",
+    "@BulletinDate": "2024-06-24 00:00:00",
     "@SiteCode": "LW2",
     "@SiteName": "Lewisham - New Cross",
     "@SiteType": "Roadside",
@@ -50,7 +57,7 @@
     }
   },
   {
-    "@BulletinDate": "2024-06-23 00:00:00",
+    "@BulletinDate": "2024-06-24 00:00:00",
     "@SiteCode": "LW4",
     "@SiteName": "Lewisham - Loampit Vale",
     "@SiteType": "Roadside",
@@ -76,7 +83,7 @@
     ]
   },
   {
-    "@BulletinDate": "2024-06-23 00:00:00",
+    "@BulletinDate": "2024-06-24 00:00:00",
     "@SiteCode": "LW5",
     "@SiteName": "Lewisham - Deptford",
     "@SiteType": "Urban Background",
@@ -102,7 +109,7 @@
     ]
   },
   {
-    "@BulletinDate": "2024-06-23 00:00:00",
+    "@BulletinDate": "2024-06-24 00:00:00",
     "@SiteCode": "LW6",
     "@SiteName": "Lewisham -Laurence House Catford",
     "@SiteType": "Roadside",
