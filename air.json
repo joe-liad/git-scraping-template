@@ -57,6 +57,13 @@
         "@IndexSource": "Measurement"
       },
       {
+        "@SpeciesCode": "PM10",
+        "@SpeciesDescription": "PM10 Particulate",
+        "@AirQualityIndex": "1",
+        "@AirQualityBand": "Low",
+        "@IndexSource": "Measurement"
+      },
+      {
         "@SpeciesCode": "PM25",
         "@SpeciesDescription": "PM2.5 Particulate",
         "@AirQualityIndex": "1",
@@ -64,6 +71,23 @@
         "@IndexSource": "Measurement"
       }
     ]
+  },
+  {
+    "@BulletinDate": "2024-10-17 00:00:00",
+    "@SiteCode": "LW4",
+    "@SiteName": "Lewisham - Loampit Vale",
+    "@SiteType": "Roadside",
+    "@Latitude": "51.4646910611736",
+    "@Longitude": "-0.0160682432041527",
+    "@LatitudeWGS84": "6703907.50224776",
+    "@LongitudeWGS84": "-1788.70865141176",
+    "Species": {
+      "@SpeciesCode": "PM10",
+      "@SpeciesDescription": "PM10 Particulate",
+      "@AirQualityIndex": "1",
+      "@AirQualityBand": "Low",
+      "@IndexSource": "Measurement"
+    }
   },
   {
     "@BulletinDate": "2024-10-17 00:00:00",
