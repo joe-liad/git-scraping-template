@@ -1,0 +1,40 @@
+{
+  "@BulletinDate": "2025-06-29 00:00:00",
+  "@SiteCode": "HP1",
+  "@SiteName": "Lewisham - Honor Oak Park",
+  "@SiteType": "Urban Background",
+  "@Latitude": "51.4496728960354",
+  "@Longitude": "-0.0374153592115306",
+  "@LatitudeWGS84": "",
+  "@LongitudeWGS84": "",
+  "Species": [
+    {
+      "@SpeciesCode": "NO2",
+      "@SpeciesDescription": "Nitrogen Dioxide",
+      "@AirQualityIndex": "1",
+      "@AirQualityBand": "Low",
+      "@IndexSource": "Measurement"
+    },
+    {
+      "@SpeciesCode": "O3",
+      "@SpeciesDescription": "Ozone",
+      "@AirQualityIndex": "3",
+      "@AirQualityBand": "Low",
+      "@IndexSource": "Measurement"
+    },
+    {
+      "@SpeciesCode": "PM10",
+      "@SpeciesDescription": "PM10 Particulate",
+      "@AirQualityIndex": "1",
+      "@AirQualityBand": "Low",
+      "@IndexSource": "Measurement"
+    },
+    {
+      "@SpeciesCode": "PM25",
+      "@SpeciesDescription": "PM2.5 Particulate",
+      "@AirQualityIndex": "1",
+      "@AirQualityBand": "Low",
+      "@IndexSource": "Measurement"
+    }
+  ]
+}
