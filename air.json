@@ -1,5 +1,5 @@
 {
-  "@BulletinDate": "2025-11-15 00:00:00",
+  "@BulletinDate": "2025-11-16 00:00:00",
   "@SiteCode": "HP1",
   "@SiteName": "Lewisham - Honor Oak Park",
   "@SiteType": "Urban Background",
@@ -18,7 +18,7 @@
     {
       "@SpeciesCode": "O3",
       "@SpeciesDescription": "Ozone",
-      "@AirQualityIndex": "1",
+      "@AirQualityIndex": "2",
       "@AirQualityBand": "Low",
       "@IndexSource": "Measurement"
     },
