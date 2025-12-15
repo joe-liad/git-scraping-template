@@ -21,6 +21,20 @@
       "@AirQualityIndex": "2",
       "@AirQualityBand": "Low",
       "@IndexSource": "Measurement"
+    },
+    {
+      "@SpeciesCode": "PM10",
+      "@SpeciesDescription": "PM10 Particulate",
+      "@AirQualityIndex": "1",
+      "@AirQualityBand": "Low",
+      "@IndexSource": "Measurement"
+    },
+    {
+      "@SpeciesCode": "PM25",
+      "@SpeciesDescription": "PM2.5 Particulate",
+      "@AirQualityIndex": "1",
+      "@AirQualityBand": "Low",
+      "@IndexSource": "Measurement"
     }
   ]
 }
